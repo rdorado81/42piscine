@@ -1,0 +1,7 @@
+Credentials cache: API:60565161-7502-43DE-BF5D-3103A1406228
+        Principal: rdorado-@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Oct 26 11:19:52 2021  Oct 26 21:19:52 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
+Oct 26 11:19:54 2021  Oct 26 21:19:52 2021  HTTP/student-storage.42barcelona.com@42BARCELONA.COM
+
